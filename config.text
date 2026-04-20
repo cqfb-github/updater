@@ -1,4 +1,4 @@
-version="1.0.1"
+version="1.0.2"
 exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
 
 #pragma once
@@ -20,7 +20,7 @@ exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
 #include <cstdint>
 #include <string>
 namespace Offsets {
-    inline std::string ClientVersion = "version-9d412f44a6fe4081";
+    inline std::string ClientVersion = "version-xzdadad332";
 
     namespace AirProperties {
          inline constexpr uintptr_t AirDensity = 0x18;
