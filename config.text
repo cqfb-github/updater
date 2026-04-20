@@ -1,5 +1,6 @@
 version="1.0.0"
-exe_url="https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest/download/OP_Auto.exe"
+exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
+// ... paste your offsets.h content here ...
 #pragma once
 /* =============================================================
 /*                       RbxDumperV2                            
