@@ -1,4 +1,4 @@
-version="1.0.0"
+version="1.0.1"
 exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
 // ... paste your offsets.h content here ...
 #pragma once
