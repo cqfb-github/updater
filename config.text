@@ -1,13 +1,13 @@
 version="1.0.1"
 exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
-// ... paste your offsets.h content here ...
+
 #pragma once
 /* =============================================================
 /*                       RbxDumperV2                            
 /*               https://imtheo.lol/Offsets                     
 /* -------------------------------------------------------------
 /*  Dumped By       : theo (https://imtheo.lol)                 
-/*  Roblox Version  : version-9d412f44a6fe4082
+/*  Roblox Version  : version-9d412f44a6fe4081
 /*  Dumper Version  : 2.1.6
 /*  Dumped At       : 19:18 15/04/2026 (GMT)
 /*  Total Offsets   : 391
@@ -20,7 +20,7 @@ exe_url="https://github.com/cqfb-github/updater/raw/main/OP_Auto.exe"
 #include <cstdint>
 #include <string>
 namespace Offsets {
-    inline std::string ClientVersion = "version-9d412f44a6fe4082";
+    inline std::string ClientVersion = "version-9d412f44a6fe4081";
 
     namespace AirProperties {
          inline constexpr uintptr_t AirDensity = 0x18;
